@@ -27,9 +27,9 @@ Here are some projects I'm proud of:
 Feel free to connect with me here on GitHub or through any of the platforms below!
 - [LinkedIn](https://www.linkedin.com/in/thilina-hewagama-ios/)
 - [Twitter](https://twitter.com/thilina3001)
-- [![Stack Overflow](http://stackoverflow.com/users/flair/1716859.png)](http://stackoverflow.com/users/1716859/thilina-chamin-hewagama)
 
 Thank you for visiting my profile!
+[![Stack Overflow](http://stackoverflow.com/users/flair/1716859.png)](http://stackoverflow.com/users/1716859/thilina-chamin-hewagama)
 
 
 <!--
