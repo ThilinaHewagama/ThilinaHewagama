@@ -1,4 +1,6 @@
 # Hello, I'm Thilina Hewagama 👋
+![GitHub followers](https://img.shields.io/github/followers/ThilinaHewagama?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ThilinaHewagama?style=social)
 
 I am a passionate Mobile Application Engineer specializing in iOS development from Colombo, Sri Lanka. With over 12 years of experience, I've honed my skills in creating intuitive and performant applications.
 
