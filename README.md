@@ -24,6 +24,8 @@ Here are some projects I'm proud of:
 - **[Another Project]**: An overview of another impressive project. [View on GitHub](#)
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaHewagama&layout=compact)](https://github.com/ThilinaHewagama)
+
 Feel free to connect with me here on GitHub or through any of the platforms below!
 - [LinkedIn](https://www.linkedin.com/in/thilina-hewagama-ios/)
 - [Twitter](https://twitter.com/thilina3001)
