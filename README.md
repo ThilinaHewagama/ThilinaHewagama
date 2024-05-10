@@ -24,12 +24,9 @@ Here are some projects I'm proud of:
 - **[Another Project]**: An overview of another impressive project. [View on GitHub](#)
 -->
 
-## GitHub Stats
-![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThilinaHewagama&show_icons=true)
-
 Feel free to connect with me here on GitHub or through any of the platforms below!
-- [LinkedIn](#) [(Add your LinkedIn URL)](https://www.linkedin.com/in/thilina-hewagama-ios/)
-- [Twitter](#) [(Add your Twitter URL)](https://twitter.com/thilina3001)
+- [LinkedIn](#) (https://www.linkedin.com/in/thilina-hewagama-ios/)
+- [Twitter](#) (https://twitter.com/thilina3001)
 
 Thank you for visiting my profile!
 
