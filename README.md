@@ -1,4 +1,4 @@
-# Hello, I'm Thilina Hewagama 👋
+# Hello, I'm Thilina Chamath Hewagama 🇱🇰
 ![GitHub followers](https://img.shields.io/github/followers/ThilinaHewagama?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ThilinaHewagama?style=social)
 
