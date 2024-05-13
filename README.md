@@ -2,7 +2,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/ThilinaHewagama?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ThilinaHewagama?style=social)
 
-I am a passionate Mobile Application Engineer specializing in iOS development from Colombo, Sri Lanka. With over 12 years of experience, I've honed my skills in creating intuitive and performant applications.
+##### SwiftUI | Objective-C | ReactNative ( Android, iOS )
+I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iOS / React Native development from Colombo, Sri Lanka. With over 12 years of experience, I've honed my skills in creating intuitive and performant applications.
+
+#### Certifications
+
+- [Writing Clean Code [Udemy]](http://ude.my/UC-8a0d43e5-d248-4920-9717-524eaeae05eb)
+- [React Native: Tips, Tricks, and Techniques [Udemy]](http://ude.my/UC-a813e8ee-1ece-451d-8045-d50c4fba81cb)
+- [Android App Development Masterclass using Kotlin [Udemy]](http://ude.my/UC-8e2e4853-b75c-4fd6-890b-f8f5720c7f84)
+- [Master CI/CD for iOS Developers [Udemy]]( http://ude.my/UC-25454791-e42b-407c-8cbc-6389a3265f12)
 
 <!--
 ## About Me
@@ -14,11 +22,6 @@ I am a passionate Mobile Application Engineer specializing in iOS development fr
 - 📫 How to reach me: [thilina3001@gmail.com](mailto:thilina3001@gmail.com)
 -->
 
-## My Interests
-- I am deeply passionate about coding and continually exploring emerging technologies within the mobile realm.
-- I strive to develop scalable software solutions that significantly enhance user experiences and benefit society.
-- Outside of work, I enjoy educating myself and others about advancements and best practices in mobile application development.
-
 <!--
 ## Projects
 Here are some projects I'm proud of:
@@ -26,28 +29,12 @@ Here are some projects I'm proud of:
 - **[Another Project]**: An overview of another impressive project. [View on GitHub](#)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaHewagama&layout=compact)](https://github.com/ThilinaHewagama)
 
 Feel free to connect with me here on GitHub or through any of the platforms below!
 - [LinkedIn](https://www.linkedin.com/in/thilina-hewagama-ios/)
 - [Twitter](https://twitter.com/thilina3001)
 
 Thank you for visiting my profile!
+[Connect](mailto:thilina3001@gmail.com)
 
 [![Stack Overflow](http://stackoverflow.com/users/flair/1716859.png)](http://stackoverflow.com/users/1716859/thilina-chamin-hewagama)
-
-
-<!--
-**ThilinaHewagama/ThilinaHewagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
