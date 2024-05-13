@@ -12,6 +12,13 @@ I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iO
 - [Android App Development Masterclass using Kotlin [Udemy]](http://ude.my/UC-8e2e4853-b75c-4fd6-890b-f8f5720c7f84)
 - [Master CI/CD for iOS Developers [Udemy]]( http://ude.my/UC-25454791-e42b-407c-8cbc-6389a3265f12)
 
+#### Apps on Store 
+- [Ayubo.pro](https://apps.apple.com/us/app/ayubo-pro/id1414129200)
+- [Ayubo.life](https://apps.apple.com/us/app/ayubo-life/id1198169710)
+- [Property Manager](https://apps.apple.com/us/app/b-a-property-manager/id1594166106)
+- [aiScout (AppStore)](https://apps.apple.com/gb/app/aiscout/id1508291341)
+- [aiScout (PlayStore)](https://play.google.com/store/apps/details?id=com.aiscout.player&hl=en_US)
+
 <!--
 ## About Me
 - 🔭 I’m currently working on various freelance projects and exploring macOS app development using SwiftUI.
