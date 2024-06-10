@@ -1,5 +1,37 @@
 # More Apps
 
+### KIN Social Network
+![Kin](./images/kin.png)
+[Link](https://www.elegantmedia.com.au/kin/)
+
+### Chirp
+![Chirp](./images/chirp.png)
+[Link](https://www.elegantmedia.com.au/chirp-iphone-ipad/)
+
+### Emot It - Messaging App
+![Emot It](./images/emot_it.png)
+[Link](https://www.elegantmedia.com.au/emot-it/)
+
+### Precious Moments
+![Precious Moments](./images/precious_moments.png)
+[Link](https://www.elegantmedia.com.au/precious-moments-ipad/)
+
+### Money2Budget
+![Money2Budget](./images/money2budget.png)
+[Link](https://www.elegantmedia.com.au/money2budget/)
+
+### The Teacher Vault
+![The Teacher Vault](./images/the_teacher_vault.png)
+[Link](https://www.elegantmedia.com.au/the-teacher-vault/)
+
+### Enlighten Me Today
+![Enlighten Me Today](./images/enlighten_me_today.png)
+[Link](https://www.elegantmedia.com.au/enlighten-me-today/)
+
+### Showcase Jewellers
+![Showcase Jewellers](./images/showcase_jewellers.png)
+[Link](https://www.elegantmedia.com.au/showcase-jewellers/)
+
 ### Tutorial Maker
 ![Tutorial Maker](./images/tutorial-maker.jpg)
 [Link](https://web.archive.org/web/20140425123303/http://www.nextgenapps.co.uk/tutorialmaker)
