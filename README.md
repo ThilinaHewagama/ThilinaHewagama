@@ -5,6 +5,8 @@
 ##### SwiftUI | Objective-C | ReactNative ( Android, iOS )
 I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iOS / React Native development from Colombo, Sri Lanka. With over 12 years of experience, I've honed my skills in creating intuitive and performant applications.
 
+[![Stack Overflow](http://stackoverflow.com/users/flair/1716859.png)](http://stackoverflow.com/users/1716859/thilina-chamin-hewagama)
+
 #### Certifications
 
 - [Writing Clean Code [Udemy]](http://ude.my/UC-8a0d43e5-d248-4920-9717-524eaeae05eb)
@@ -47,5 +49,3 @@ Feel free to connect with me here on GitHub or through any of the platforms belo
 
 Thank you for visiting my profile!
 [Connect](mailto:thilina3001@gmail.com)
-
-[![Stack Overflow](http://stackoverflow.com/users/flair/1716859.png)](http://stackoverflow.com/users/1716859/thilina-chamin-hewagama)
