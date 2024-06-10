@@ -22,7 +22,7 @@ I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iO
 - [aiScout (PlayStore)](https://play.google.com/store/apps/details?id=com.aiscout.player&hl=en_US)
 
 - [More Apps](./MoreApps.md)
-![Collage](./images/collage.png)
+<img src="./images/collage.png" alt="Collage" width="600" height="600">
 
 
 <!--
