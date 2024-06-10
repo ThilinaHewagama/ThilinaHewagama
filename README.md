@@ -18,6 +18,7 @@ I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iO
 - [Property Manager](https://apps.apple.com/us/app/b-a-property-manager/id1594166106)
 - [aiScout (AppStore)](https://apps.apple.com/gb/app/aiscout/id1508291341)
 - [aiScout (PlayStore)](https://play.google.com/store/apps/details?id=com.aiscout.player&hl=en_US)
+- [More Apps](./MoreApps.md)
 
 <!--
 ## About Me
