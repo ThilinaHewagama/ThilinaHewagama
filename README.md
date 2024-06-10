@@ -23,6 +23,11 @@ I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iO
 
 <img src="./images/collage.png" alt="Collage" width="600" height="600">
 
+#### YouTube Channel
+<a href="https://www.youtube.com/@TCHewagama/" target="_blank">
+    <img src="./images/youtube.png" alt="Collage" width="250" height="184">
+</a>
+<br><br>
 
 Feel free to connect with me here on GitHub or through any of the platforms below!
 - [LinkedIn](https://www.linkedin.com/in/thilina-hewagama-ios/)
