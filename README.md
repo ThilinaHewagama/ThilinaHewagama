@@ -22,7 +22,8 @@ I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iO
 - [aiScout (PlayStore)](https://play.google.com/store/apps/details?id=com.aiscout.player&hl=en_US) (on PlayStore)
 - [📱(20+) More Apps](./MoreApps.md)
 
-<img src="./images/collage.png" alt="Collage" width="600" height="600">
+<img src="./images/app_store.png" alt="Collage" width="700" height="288">
+<img src="./images/collage.png" alt="Collage" width="700" height="700">
 
 #### YouTube Channel
 <a href="https://www.youtube.com/@TCHewagama/" target="_blank">
