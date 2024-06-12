@@ -1,6 +1,12 @@
 # More Apps
 
 
+### Rubies Africa (ReactNative)
+![RubiesAfrica](./images/rubies_africa_ios.png)
+![RubiesAfrica](./images/rubies_africa_android.png)
+[iOS](https://apps.apple.com/ng/app/rubies-africa/id1449877082?platform=iphone)
+[Android](https://play.google.com/store/apps/details?id=com.garsontech.rubiesafrica&hl=en_US)
+
 ### FACS mobile
 ![FACS](./images/facs.png)
 [Link](https://web.archive.org/web/20130826184224/http://www.facsware.com/resources/facs-mobile/)
@@ -38,15 +44,15 @@
 [Link](https://www.elegantmedia.com.au/showcase-jewellers/)
 
 ### Warranty Buddy
-![Showcase Jewellers](./images/warranty_buddy.jpg)
+![Warranty Buddy](./images/warranty_buddy.jpg)
 [Link](https://fexcon.com.au/warranty-pal.php)
 
 ### HomeScene
-![Showcase Jewellers](./images/home_scene.png)
+![HomeScene](./images/home_scene.png)
 [Link](https://fexcon.com.au/homescene.php)
 
 ### VisGuide
-![Showcase Jewellers](./images/vis_guide.png)
+![VisGuide](./images/vis_guide.png)
 [Link](https://fexcon.com.au/visguide.php)
 
 ### Tutorial Maker
