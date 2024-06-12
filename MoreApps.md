@@ -37,6 +37,18 @@
 ![Showcase Jewellers](./images/showcase_jewellers.png)
 [Link](https://www.elegantmedia.com.au/showcase-jewellers/)
 
+### Warranty Buddy
+![Showcase Jewellers](./images/warranty_buddy.jpg)
+[Link](https://fexcon.com.au/warranty-pal.php)
+
+### HomeScene
+![Showcase Jewellers](./images/home_scene.png)
+[Link](https://fexcon.com.au/homescene.php)
+
+### VisGuide
+![Showcase Jewellers](./images/vis_guide.png)
+[Link](https://fexcon.com.au/visguide.php)
+
 ### Tutorial Maker
 ![Tutorial Maker](./images/tutorial-maker.jpg)
 [Link](https://web.archive.org/web/20140425123303/http://www.nextgenapps.co.uk/tutorialmaker)
