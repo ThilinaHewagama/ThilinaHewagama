@@ -20,7 +20,7 @@ I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iO
 - [Property Manager](https://apps.apple.com/us/app/b-a-property-manager/id1594166106) (on AppStore)
 - [aiScout (AppStore)](https://apps.apple.com/gb/app/aiscout/id1508291341) (on AppStore)
 - [aiScout (PlayStore)](https://play.google.com/store/apps/details?id=com.aiscout.player&hl=en_US) (on PlayStore)
-- [More Apps (20+)](./MoreApps.md)
+- [📱(20+) More Apps](./MoreApps.md)
 
 <img src="./images/collage.png" alt="Collage" width="600" height="600">
 
