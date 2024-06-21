@@ -7,6 +7,11 @@
 [iOS](https://apps.apple.com/ng/app/rubies-africa/id1449877082?platform=iphone)
 [Android](https://play.google.com/store/apps/details?id=com.garsontech.rubiesafrica&hl=en_US)
 
+### :Different Tenant iOS
+![:Different](./images/different_tenant.png)
+![:Different-Dev](./images/team_different.jpg)
+[Link](https://different.com.au/different-for-tenants/)
+
 ### FACS mobile
 ![FACS](./images/facs.png)
 [Link](https://web.archive.org/web/20130826184224/http://www.facsware.com/resources/facs-mobile/)
