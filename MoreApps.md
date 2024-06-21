@@ -43,6 +43,9 @@
 ![Showcase Jewellers](./images/showcase_jewellers.png)
 [Link](https://www.elegantmedia.com.au/showcase-jewellers/)
 
+### ASHLEY App
+![Showcase Jewellers](./images/ASHLEY_app.jpg)
+
 ### Warranty Buddy
 ![Warranty Buddy](./images/warranty_buddy.jpg)
 [Link](https://fexcon.com.au/warranty-pal.php)
