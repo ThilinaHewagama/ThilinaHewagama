@@ -26,7 +26,7 @@ I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iO
 <img src="./images/collage.png" alt="Collage" width="700" height="700">
 
 #### YouTube Channel
-<a href="https://www.youtube.com/@TCHewagama/" target="_blank">
+<a href="https://www.youtube.com/@codekids99/" target="_blank">
     <img src="./images/youtube.png" alt="Collage" width="250" height="184">
 </a>
 <br><br>
