@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/ThilinaHewagama?style=social)
 
 ##### SwiftUI | Objective-C | ReactNative (Android, iOS)
-I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iOS / React Native development from Colombo, Sri Lanka. With over 12 years of experience, I've honed my skills in creating intuitive and performant applications.
+I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iOS / React Native development from Colombo, Sri Lanka. With over 14 years of experience, I've honed my skills in creating intuitive and performant applications.
 
 [![Stack Overflow](http://stackoverflow.com/users/flair/1716859.png)](http://stackoverflow.com/users/1716859/thilina-chamin-hewagama)
 
@@ -25,11 +25,7 @@ I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iO
 <img src="./images/app_store.png" alt="Collage" width="700" height="288">
 <img src="./images/collage.png" alt="Collage" width="700" height="700">
 
-#### YouTube Channel
-<a href="https://www.youtube.com/@codekids99/" target="_blank">
-    <img src="./images/youtube.png" alt="Collage" width="250" height="184">
-</a>
-<br><br>
+<br>
 
 Feel free to connect with me here on GitHub or through any of the platforms below!
 - [LinkedIn](https://www.linkedin.com/in/thilina-hewagama-ios/)
